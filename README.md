@@ -55,6 +55,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/naufalghifarii/naufalghifarii/output/snake.svg" alt="Snake animation" />
-
 ###
